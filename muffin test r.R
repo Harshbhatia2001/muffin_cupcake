@@ -105,3 +105,4 @@ muffin_cupcake_train_preprocessed
 muffin_cupcake_test_preprocessed <- bake(prepped_recipe, muffin_cupcake_test)
 muffin_cupcake_test_preprocessed
 
+# End of this activity 
